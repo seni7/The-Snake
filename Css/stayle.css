@@ -1,0 +1,10 @@
+#canvas{
+    background-color: black
+}
+
+#canvas{
+    background-image: url("../image/game-snake.png");
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-size: 500px 500px;
+    }
